@@ -1,4 +1,5 @@
 # Matlab-optimalization-with-GPU
+## Root == examples folder
 Part of my Bachelor thesis.
 
 In MATLAB run:
